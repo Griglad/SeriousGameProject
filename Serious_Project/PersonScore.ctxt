@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=PersonScore
+comment0.text=\r\n\ @author(Grigorios\ ladas)\r\n
+comment1.params=
+comment1.target=PersonScore()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=int\ getStatusPerson()
+comment4.params=
+comment4.target=void\ nextStepDay()
+comment5.params=calories
+comment5.target=void\ addCalories(int)
+numComments=6
